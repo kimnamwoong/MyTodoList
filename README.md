@@ -1,5 +1,6 @@
 # MyTodoList
 HTML,CSS,javascript를 활용한 todo list app 구현 
+참고 사이트 : https://www.codingnepalweb.com/create-todo-list-app-html-javascript/
 
 ## 개요
 1. HTML, CSS, Javascript
